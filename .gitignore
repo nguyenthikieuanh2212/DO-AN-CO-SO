@@ -1,0 +1,9 @@
+﻿__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.pyc
+*.pyo
+*.pyd
+Thumbs.db
+.DS_Store
+data/processed_data/bai_test_do_an_preprocessed.csv
