@@ -68,14 +68,14 @@ CATEGORY_CONFIG = {
     },
 }
 
-# Target trừ hao để bù cho VnExpress + Thanh Niên
+# Số lượng bài báo mục tiêu theo từng chuyên mục để kiểm soát quy mô dữ liệu thu thập
 CATEGORY_TARGETS = {
     "the_thao": 2000,
-    "cong_nghe": 1000,
+    "cong_nghe": 2000,
     "giao_duc": 2000,
     "suc_khoe": 2000,
     "du_lich": 2000,
-    "xe": 500,
+    "xe": 2000,
 }
 
 NOISE_PATTERNS = [
