@@ -1,12 +1,12 @@
-﻿__pycache__/
+__pycache__/
 .ipynb_checkpoints/
 .venv/
+
 *.pyc
 *.pyo
 *.pyd
+
 Thumbs.db
 .DS_Store
-data/processed_data/bai_test_do_an_preprocessed.csv
 
 data/
-bao_cao_gom_cum.pptx
